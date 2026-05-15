@@ -31,6 +31,7 @@ Windows 10 or Windows 11 is enough. The package includes the application runtime
 - Workflow GUI for data acquisition, cleaning, semantic classes, 2D/3D visualization, QA, reports, and exports.
 - `config/license.env` with only the public trial license and Render service URL.
 - No Ollama, GitHub, or Render operator API keys.
+- No pre-generated data outputs; the user runs the online workflow to fetch and build current results.
 
 ## Outputs
 
