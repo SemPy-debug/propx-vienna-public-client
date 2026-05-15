@@ -1,0 +1,16 @@
+{
+  "app": "PropX Vienna Workflow",
+  "version": "0.1.0",
+  "release_tag": "v0.1.0-public-trial",
+  "license_id": "propx-evaluation-demo",
+  "license": "public-trial",
+  "trial_days": 7,
+  "max_machines": 3,
+  "server_url": "https://propx-render-proxy.onrender.com",
+  "support_email": "amvrazis.s@gmail.com",
+  "asset": "propx-evaluation-demo.zip",
+  "download_url": "https://github.com/SemPy-debug/propx-vienna-public-client/releases/download/v0.1.0-public-trial/propx-evaluation-demo.zip",
+  "sha256": "fec3e15f65b14e9c5de78ce60d51c3e9bb3ce47fddb2628c535d8df3d22e1ce8",
+  "size_bytes": 306601993,
+  "updated_at": "2026-05-15T07:27:21.696624Z"
+}
